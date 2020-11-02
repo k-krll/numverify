@@ -1,0 +1,94 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "numcap@^0.0.14",
+        "scope": null,
+        "escapedName": "numcap",
+        "name": "numcap",
+        "rawSpec": "^0.0.14",
+        "spec": ">=0.0.14 <0.0.15",
+        "type": "range"
+      },
+      "C:\\Users\\Kirill\\numcap"
+    ]
+  ],
+  "_from": "numcap@>=0.0.14 <0.0.15",
+  "_id": "numcap@0.0.14",
+  "_inCache": true,
+  "_location": "/numcap",
+  "_npmUser": {
+    "name": "antirek",
+    "email": "antirek@yandex.ru"
+  },
+  "_npmVersion": "1.4.28",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "numcap@^0.0.14",
+    "scope": null,
+    "escapedName": "numcap",
+    "name": "numcap",
+    "rawSpec": "^0.0.14",
+    "spec": ">=0.0.14 <0.0.15",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/numcap/-/numcap-0.0.14.tgz",
+  "_shasum": "1c4e11b631847c784173ca83cfc73e7e5f13ca76",
+  "_shrinkwrap": null,
+  "_spec": "numcap@^0.0.14",
+  "_where": "C:\\Users\\Kirill\\numcap",
+  "author": {
+    "name": "Alexander Belokon, Dmitriev Sergey"
+  },
+  "bugs": {
+    "url": "https://github.com/antirek/numcap/issues"
+  },
+  "dependencies": {
+    "phone-number-format": "0.0.3"
+  },
+  "description": "Russian phone operators resource",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-mocha-istanbul": "^2.2.0",
+    "istanbul": "^0.3.5",
+    "mocha": "^2.1.0",
+    "mocha-istanbul": "^0.2.0",
+    "request": "^2.51.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "1c4e11b631847c784173ca83cfc73e7e5f13ca76",
+    "tarball": "https://registry.npmjs.org/numcap/-/numcap-0.0.14.tgz"
+  },
+  "gitHead": "d0a9724be335d12f70d8b5c251f1d4a34db6729f",
+  "homepage": "https://github.com/antirek/numcap",
+  "keywords": [
+    "numbers",
+    "telephone",
+    "capacity",
+    "phone",
+    "Russia"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "antirek",
+      "email": "antirek@yandex.ru"
+    }
+  ],
+  "name": "numcap",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antirek/numcap.git"
+  },
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "version": "0.0.14"
+}
